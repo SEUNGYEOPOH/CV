@@ -5,24 +5,38 @@
 - Email : 13056650@naver.com / dhwmd08@kpu.ac.kr
 - Github : https://github.com/SEUNGYEOPOH
 - Interesting field : 🖤ML, DL, Data Science, Cloud🤍<br/>
- 
+<br/>
+
+
 # 👨‍🎓 Education
 - Korea Polytechnic University (IT-Management)<br/>(2018.03~)
-- KeumJeong High School (2015.03 ~ 2018.02)
+- KeumJeong High School (2015.03 ~ 2018.02)<br/>
+<br/>
+
 
 # 🏠 Organization
 - 육군 수도군단 700 특공연대 만기전역(2019.02.18 ~ 2021.09.21)<br/>
 It will be added soon...
+<br/>
+
+
 
 # 🙏 Personal Projects 
 ### 파뿌리(파이썬 뿌시는 이십대들) 
 - 파뿌리 3기 참가 후 활동
 - 2021.09.12 ~ ing
-- 파이썬 기초, 자료구조, 데이터 분석, Git 사용법 숙지
+- 파이썬 기초, 자료구조, 데이터 분석, Git 사용법 숙지<br/>
+<br/>
 
 ### RC 소모임(웹 크롤링을 이용한 간단한 챗봇(감도리) 구현)
 - 2021.04.01 ~ 2021.06.28 
-- kakao i open builder를 통해 실시간 노래차트, 맛집 추천 챗봇 구현
+- kakao i open builder를 통해 실시간 노래차트, 맛집 추천 챗봇 구현<br/>
+<br/>
+<br/>
+<br/>
+
+
+
 
 # 🏅 Skills
 
@@ -35,4 +49,7 @@ It will be added soon...
 <img src="https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white"/></a>
 <br/>
 <br/>
+<br/>
+
+
 # ⏭️ Will be updated later
