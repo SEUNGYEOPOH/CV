@@ -28,7 +28,8 @@ It will be added soon...
 ### 파뿌리(파이썬 뿌시는 이십대들) 
 - 파뿌리 3기 참가 후 활동
 - 2021.09.12 ~ ing
-- 파이썬 기초, 자료구조, 데이터 분석, Git 사용법 숙지<br/>
+- 파이썬 기초, 자료구조, 데이터 분석, Git 사용법 숙지
+- [파뿌리 활동내역](https://github.com/SEUNGYEOPOH/Python_breakers_RP)<br/>
 <br/>
 
 ### RC 소모임(웹 크롤링을 이용한 간단한 챗봇(감도리) 구현)
