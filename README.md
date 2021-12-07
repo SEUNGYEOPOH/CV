@@ -30,6 +30,7 @@
 - 2021.09.12 ~ ing
 - 파이썬 기초, 자료구조, 데이터 분석, Git 사용법 숙지
 - [파뿌리 활동내역](https://github.com/SEUNGYEOPOH/Python_breakers_RP)<br/>
+
 ### My Paper Log(논문 리뷰 프로젝트)
 - 주 단위로 관심 분야 논문 리뷰
 - 월 단위로  AI Top Tier Journal (ICML, ICLR, IEEE, NIPS, AAAI) 논문 리뷰
