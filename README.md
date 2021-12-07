@@ -18,7 +18,7 @@
 
 # 🏠 Organization
 - 육군 수도군단 700 특공연대 만기전역(2019.02.18 ~ 2021.09.21)<br/>
-It will be added soon...
+- DSL (Data Science Lab) Research Assistance(2021.10.06 ~ ing)<br/>
 <br/>
 <br/>
 
@@ -30,6 +30,9 @@ It will be added soon...
 - 2021.09.12 ~ ing
 - 파이썬 기초, 자료구조, 데이터 분석, Git 사용법 숙지
 - [파뿌리 활동내역](https://github.com/SEUNGYEOPOH/Python_breakers_RP)<br/>
+### My Paper Log(논문 리뷰 프로젝트)
+- 주 단위로 관심 분야 논문 리뷰
+- 월 단위로  AI Top Tier Journal (ICML, ICLR, IEEE, NIPS, AAAI) 논문 리뷰
 <br/>
 
 ### RC 소모임(웹 크롤링을 이용한 간단한 챗봇(감도리) 구현)
