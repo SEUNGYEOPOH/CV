@@ -40,9 +40,21 @@
 - 2021.04.01 ~ 2021.06.28 
 - kakao i open builder를 통해 실시간 노래차트, 맛집 추천 챗봇 구현<br/>
 <br/>
-<br/>
+
+### Term_Project(웹 페이지 제작)
+- 2021.11.30 ~ 2021.12.21 
+- 남성 전용 쇼핑몰 제작
+- Iamport API를 통해 결제 시 실제로 결제가 되도록 구현 
+- KAKAO TALK 로그인 기능 구현
+- CRUD 및 판매, 주문내역 조회 등 기능구현
+- [소스 코드](https://github.com/SEUNGYEOPOH/Term_project)<br/>
 <br/>
 
+
+# 🗂️ Certificate
+- SQLD (SQL Developer)
+<br/>
+<br/>
 
 
 
