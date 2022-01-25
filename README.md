@@ -10,7 +10,7 @@
 
 
 # 👨‍🎓 Education
-- Korea Polytechnic University (IT-Management)<br/>(2018.03~)
+- Korea Polytechnic University (IT-Management & Smart-Factory Dual Degree) (2018.03~)<br/>
 - KeumJeong High School (2015.03 ~ 2018.02)<br/>
 <br/>
 <br/>
