@@ -10,15 +10,15 @@
 
 
 # 👨‍🎓 Education
-- Korea Polytechnic University (IT-Management & Smart-Factory Dual Degree) (2018.03~)<br/>
+- Korea Polytechnic University (IT-Management & Smart-Factory Dual Degree) (2018.03 ~ ing)<br/>
 - KeumJeong High School (2015.03 ~ 2018.02)<br/>
 <br/>
 <br/>
 
 
 # 🏠 Organization
-- 육군 수도군단 700 특공연대 만기전역(2019.02.18 ~ 2021.09.21)<br/>
-- DSL (Data Science Lab) Research Assistance(2021.10.06 ~ ing)<br/>
+- 육군 수도군단 700 특공연대 만기전역 (2019.02.18 ~ 2021.09.21)<br/>
+- DSL (Data Science Lab) Research Assistance (2021.10.06 ~ ing)<br/>
 <br/>
 <br/>
 
