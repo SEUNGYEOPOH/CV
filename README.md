@@ -4,13 +4,13 @@
 - 오승엽(Oh Seung Yeop)
 - Email : 13056650@naver.com / dhwmd08@kpu.ac.kr
 - Github : https://github.com/SEUNGYEOPOH
-- Interesting field : 🖤ML, DL, Data Science, Cloud🤍<br/>
+- Interesting Field : 🖤ML, DL, Data Science, Cloud🤍<br/>
 <br/>
 <br/>
 
 
 # 👨‍🎓 Education
-- Korea Polytechnic University (IT-Management & Smart-Factory Dual Degree) (2018.03 ~ ing)<br/>
+- Tech University of Korea (IT-Management & Smart-Factory Dual Degree) (2018.03 ~ ing)<br/>
 - KeumJeong High School (2015.03 ~ 2018.02)<br/>
 <br/>
 <br/>
