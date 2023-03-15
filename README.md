@@ -2,9 +2,9 @@
 <img alt="git hub profile image" src="https://user-images.githubusercontent.com/81912557/135828724-396d9561-2bef-4193-8f49-d168e71e3fbb.jpg" width="200"><br/>
 
 - 오승엽(Oh Seung Yeop)
-- Email : 13056650@naver.com / dhwmd08@kpu.ac.kr
+- Email : 13056650@naver.com / dhwmd08@tukorea.ac.kr
 - Github : https://github.com/SEUNGYEOPOH
-- Interesting Field : 🖤ML, DL, Data Science, Cloud🤍<br/>
+- Interesting Field : NLP, Object Detection, Vision, Time-Series<br/>
 <br/>
 <br/>
 
@@ -17,12 +17,22 @@
 
 
 # 🏠 Organization
-- 육군 수도군단 700 특공연대 만기전역 (2019.02.18 ~ 2021.09.21)<br/>
-- DSL (Data Science Lab) Research Assistance (2021.10.06 ~ ing)<br/>
+- 육군 수도군단 700 특공연대 만기전역 (2019.02.18 ~ 2020.09.21)<br/>
+- AID LAB (Artificial Intelligence + Data Science) Research Assistance (2021.10.06 ~ 2023.01.21)<br/>
 <br/>
 <br/>
 
+# 📖 Research Experience
+- 전이학습 딥러닝을 활용한 감염병 예측 시뮬레이션
+- 딥러닝을 활용한 공간 데이터 보간
+- 설명 가능한 인공지능을 활용한 미세먼지 예측 메커니즘의 이해
+<br/>
+<br/>
 
+# 💡 PATENTS
+-  이동현, 김남훈, 오승엽, "인공지능을 이용한 감염병 예측 방법 및 장치", 10-2022-0132078,  2022.10.14 출원.
+<br/>
+<br/>
 
 # 🙏 Personal Projects 
 ### 파뿌리(파이썬 뿌시는 이십대들) 
@@ -39,7 +49,6 @@
 ### RC 소모임(웹 크롤링을 이용한 간단한 챗봇(감도리) 구현)
 - 2021.04.01 ~ 2021.06.28 
 - kakao i open builder를 통해 실시간 노래차트, 맛집 추천 챗봇 구현<br/>
-<br/>
 
 ### Term_Project(웹 페이지 제작)
 - 2021.11.30 ~ 2021.12.21 
@@ -48,6 +57,12 @@
 - KAKAO TALK 로그인 기능 구현
 - CRUD 및 판매, 주문내역 조회 등 기능구현
 - [소스 코드](https://github.com/SEUNGYEOPOH/Term_project)<br/>
+
+### R을 이용한 Deep Neural Network(DNN) 구현
+- 2021.11.30 ~ 2021.12.21 
+- 빅데이터 분석 실무 프로젝트
+- 주 언어가 아닌 R을 이용하여 DNN 구현 
+- [소스 코드](https://github.com/SEUNGYEOPOH/)<br/>
 <br/>
 
 
@@ -56,18 +71,21 @@
 <br/>
 <br/>
 
-
-
-# 🏅 Skills
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/Adobe Dreamweaver-FF61F6?style=flat-square&logo=Adobe Dreamweaver&logoColor=white">
-
-
-<br/>
-<br/>
+# 📖 Teaching & Advising
 <br/>
 
+## TA(Teaching Assistant)
+- 프로그래밍 기초(Java)
+- 프로그래밍과 데이터 분석(Python)
 
-# ⏭️ Will be updated later
+## Mentoring
+- 청출어람 튜터링
+- 경영학부 신입생 멘토링
+- 경영학부 편입생 멘토링
+<br/>
+<br/>
+
+# 🏅 TECHNICAL SKILLS
+### Programming Language & Framework
+- `Python` `Java` `R` `SQL` `HTML/CSS/JS`
+- `Tensorflow-Keras`,  `Pycaret`, `Pytorch` ...
