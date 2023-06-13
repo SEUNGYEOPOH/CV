@@ -60,14 +60,12 @@
 - 빅데이터 분석 실무 프로젝트
 - water pump 잔여수명 예측
 - 주 언어가 아닌 R을 이용하여 DNN 구현 
-- [ppt 자료](https://github.com/SEUNGYEOPOH/CV/water pump.pptx)
 
 ### UNIT(Uncertain Novel Infectious disease spread prediction Technology)
 - 2022.10.30 ~ 2022.12.21 
 - 어드벤처 디자인 사고 프로젝트
 - 감염병 예측 및 Shap value 시각화
 - ARIMA, LSTM, TCN etc.. 
-- [ppt 자료](https://github.com/SEUNGYEOPOH/CV/UNIT.pptx)
 <br/>
 
 
