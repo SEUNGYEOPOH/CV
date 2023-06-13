@@ -43,11 +43,6 @@
 - 파이썬 기초, 자료구조, 데이터 분석, Git 사용법 숙지
 - [파뿌리 활동내역](https://github.com/SEUNGYEOPOH/Python_breakers_RP)<br/>
 
-### My Paper Log(논문 리뷰 프로젝트)
-- 주 단위로 관심 분야 논문 리뷰
-- 월 단위로  AI Top Tier Journal (ICML, ICLR, IEEE, NIPS, AAAI) 논문 리뷰
-<br/>
-
 ### RC 소모임(웹 크롤링을 이용한 간단한 챗봇(감도리) 구현)
 - 2021.04.01 ~ 2021.06.28 
 - kakao i open builder를 통해 실시간 노래차트, 맛집 추천 챗봇 구현<br/>
@@ -65,14 +60,14 @@
 - 빅데이터 분석 실무 프로젝트
 - water pump 잔여수명 예측
 - 주 언어가 아닌 R을 이용하여 DNN 구현 
-- [소스 코드](https://github.com/SEUNGYEOPOH/)<br/>
+- [소스 코드](https://github.com/SEUNGYEOPOH/), [발표 자료](https://github.com/SEUNGYEOPOH/)
 
 ### UNIT(Uncertain Novel Infectious disease spread prediction Technology)
 - 2022.10.30 ~ 2022.12.21 
 - 어드벤처 디자인 사고 프로젝트
 - 감염병 예측 및 Shap value 시각화
 - ARIMA, LSTM, TCN etc.. 
-- [소스 코드](https://github.com/SEUNGYEOPOH/)<br/>
+- [소스 코드](https://github.com/SEUNGYEOPOH/), [발표 자료](https://github.com/SEUNGYEOPOH/)
 <br/>
 
 
