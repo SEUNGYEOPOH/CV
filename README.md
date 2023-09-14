@@ -4,7 +4,7 @@
 - 오승엽(Oh Seung Yeop)
 - Email : 13056650@naver.com / dhwmd08@tukorea.ac.kr
 - Github : https://github.com/SEUNGYEOPOH
-- Interesting Field : Deep Learning, Data Analysis, Optimization (OR), Anomaly Detection<br/>
+- Interesting Field : Deep Learning, Data Analysis, Generative AI, Computer Vision<br/>
 <br/>
 <br/>
 
