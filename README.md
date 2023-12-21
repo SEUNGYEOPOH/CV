@@ -6,34 +6,37 @@
 - Github : https://github.com/SEUNGYEOPOH
 - Interesting Field : Deep Learning, Data Analysis, Generative AI, Computer Vision<br/>
 <br/>
-<br/>
+
 
 
 # 👨‍🎓 Education
-- Tech University of Korea (IT-Business Administration & Smart-Factory Dual Degree) (2018.03 ~ ing)<br/>
+- Tech University of Korea (IT-Business Administration & Smart-Factory Dual Degree) (2018.03 ~ 2024.02)<br/>
 - KeumJeong High School (2015.03 ~ 2018.02)<br/>
 <br/>
-<br/>
+
 
 
 # 🏠 Organization
 - 육군 수도군단 700 특공연대 만기전역 (2019.02.18 ~ 2020.09.21)<br/>
 - AID LAB (Artificial Intelligence + Data Science) Research Assistance (2021.10.06 ~ 2023.01.21)<br/>
 <br/>
-<br/>
+
 
 # 📖 Research Experience
-- 전이학습 딥러닝을 활용한 감염병 예측 시뮬레이션
-- 딥러닝을 활용한 공간 데이터 보간
-- 실시간 객체 탐지를 활용한 인공지능 기반 군중유동화 및 압사사고 방지 시스템
-- 설명 가능한 인공지능을 활용한 미세먼지 예측 메커니즘의 이해
-- ICNN (Interpolated Convolutional Neural Network)과 MCDO(Monte Carlo Dropout)를 활용한 대한민국 미세먼지 예측 및 불확실성 추정
+- GAIN (Generative Adversarial Imputation Nets)을 활용한 딥러닝 기반 Spatial Data Interpolation 연구 / 한국공학대학교 ER / GAN기반 Spatial Data(Missing Data) Interpolation 및 IDW(Inverse Distance Weighting), Kriging과의 비교 (Sep. 2022 ~ Dec. 2022)
+- 객체 탐지 모델 YOLO(You Only Look Once)와 Optical Flow를 활용한 다중밀집사고 방지 시스템, 한국공학대학교 경영학부 캡스톤 디자인 / YOLO와 U-Net, Optical Flow 기반 실시간 다중밀집사고 방지 시스템 개발 (Sep. 2022 ~ Sep. 2023)
+- 전이학습 딥러닝을 활용한 감염병 예측 시뮬레이션, 한국연구재단 / 전이학습 기반 딥러닝을 이용한 감염병 예측 및 유전 알고리즘을 활용한 뉴럴 네트워크 가중치 최적화 (Oct. 2021 ~ Apr. 2022)
+- ICNN (Interpolated Convolutional Neural Network)과 MCDO(Monte Carlo Dropout)를 활용한 대한민국 미세먼지 농도 예측 및 불확실성 추정 / ICNN 기반 미세먼지 농도 예측 및 예측 결과의 불확실성 시각화 (Oct. 2021 ~ Feb. 2022) 
+- ViT(Vision TransFormer)를 활용한 미세먼지 농도 예측 및 설명가능한 인공지능을 활용한 미세먼지 예측 메커니즘의 이해, 한국환경정책ㆍ평가연구원 / ViT 기반 Attention Score 추정 및 Shaply Value 시각화 (May. 2022 ~ Feb. 2022)
 <br/>
+
+
+# :trophy: AWARDS
+- 2023 한국공학대전 – 한국공학대학교 총장상, 한국공학대학교, (Sep.2023)
 <br/>
 
 # 💡 PATENTS
 -  이동현, 김남훈, 오승엽, "인공지능을 이용한 감염병 예측 방법 및 장치", 10-2022-0132078,  2022.10.14 출원.
-<br/>
 <br/>
 
 # 🙏 Personal Projects 
@@ -70,22 +73,21 @@
 
 
 # 🗂️ Certificate
-- SQLD (SQL Developer)
-<br/>
+- SQLD (SQL Developer), (Dec. 2021
 <br/>
 
 # 📖 Teaching & Advising
 <br/>
 
 ## TA(Teaching Assistant)
-- 프로그래밍 기초(Java)
-- 프로그래밍과 데이터 분석(Python)
+- 프로그래밍 기초(JAVA, Eclipse) (Mar. 2022 ~ Jun. 2022)
+- 프로그래밍과 데이터 분석(Python, Jupyter Notebook) (Sep. 2022 ~ Dec. 2022)
 
 ## Mentoring
-- 청출어람 튜터링
-- 경영학부 신입생 멘토링
-- 경영학부 편입생 멘토링
-<br/>
+- 청출어람 튜터링 : 프로그래밍 기초 전공교과 멘토 (Mar. 2021 ~ Jun. 2021)
+- 경영학부 신입생 멘토링 : 프로그래밍 기초, 경영통계학 멘토 (Mar. 2021 ~ Jun. 2021)
+- 경영학부 편입생 멘토링 : 데이터베이스 설계, 빅데이터 분석 멘토 (Mar. 2022 ~ Jun. 2022)
+
 <br/>
 
 # 🏅 TECHNICAL SKILLS
