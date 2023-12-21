@@ -22,6 +22,7 @@
 <br/>
 
 
+
 # 📖 Research Experience
 - GAIN (Generative Adversarial Imputation Nets)을 활용한 딥러닝 기반 Spatial Data Interpolation 연구 / 한국공학대학교 ER / GAN기반 Spatial Data(Missing Data) Interpolation 및 IDW(Inverse Distance Weighting), Kriging과의 비교 (Sep. 2022 ~ Dec. 2022)
 - 객체 탐지 모델 YOLO(You Only Look Once)와 Optical Flow를 활용한 다중밀집사고 방지 시스템, 한국공학대학교 경영학부 캡스톤 디자인 / YOLO와 U-Net, Optical Flow 기반 실시간 다중밀집사고 방지 시스템 개발 (Sep. 2022 ~ Sep. 2023)
@@ -31,13 +32,18 @@
 <br/>
 
 
-# :trophy: AWARDS
+
+# 🏆 AWARDS
 - 2023 한국공학대전 – 한국공학대학교 총장상, 한국공학대학교, (Sep.2023)
 <br/>
+
+
 
 # 💡 PATENTS
 -  이동현, 김남훈, 오승엽, "인공지능을 이용한 감염병 예측 방법 및 장치", 10-2022-0132078,  2022.10.14 출원.
 <br/>
+
+
 
 # 🙏 Personal Projects 
 ### 파뿌리(파이썬 뿌시는 이십대들) 
@@ -72,13 +78,15 @@
 <br/>
 
 
+
 # 🗂️ Certificate
 - SQLD (SQL Developer), (Dec. 2021
 <br/>
 
+
+
 # 📖 Teaching & Advising
 <br/>
-
 ## TA(Teaching Assistant)
 - 프로그래밍 기초(JAVA, Eclipse) (Mar. 2022 ~ Jun. 2022)
 - 프로그래밍과 데이터 분석(Python, Jupyter Notebook) (Sep. 2022 ~ Dec. 2022)
@@ -87,8 +95,9 @@
 - 청출어람 튜터링 : 프로그래밍 기초 전공교과 멘토 (Mar. 2021 ~ Jun. 2021)
 - 경영학부 신입생 멘토링 : 프로그래밍 기초, 경영통계학 멘토 (Mar. 2021 ~ Jun. 2021)
 - 경영학부 편입생 멘토링 : 데이터베이스 설계, 빅데이터 분석 멘토 (Mar. 2022 ~ Jun. 2022)
-
 <br/>
+
+
 
 # 🏅 TECHNICAL SKILLS
 ### Programming Language & Framework
