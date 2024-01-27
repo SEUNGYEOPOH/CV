@@ -4,13 +4,17 @@
 - 오승엽(Oh Seung Yeop)
 - Email : 13056650@naver.com / dhwmd08@tukorea.ac.kr
 - Github : https://github.com/SEUNGYEOPOH
-- Interesting Field : Deep Learning, Data Analysis, Generative AI, Computer Vision<br/>
+- Interesting Field : Deep Learning, Data Analysis, Spatial Data Science, Time-Series Forecasting<br/>
+- Portfolio : [Click Here!]()
 <br/>
 
 
 
 # 👨‍🎓 Education
 - Tech University of Korea (IT-Business Administration & Smart-Factory Dual Degree) (2018.03 ~ 2024.02)<br/>
+  - Bachelor Student <br/>
+    &nbsp; GPA : 4.26 / 4.5
+
 - KeumJeong High School (2015.03 ~ 2018.02)<br/>
 <br/>
 
@@ -86,7 +90,8 @@
 
 
 # 📖 Teaching & Advising
-<br/>
+
+
 ## TA(Teaching Assistant)
 - 프로그래밍 기초(JAVA, Eclipse) (Mar. 2022 ~ Jun. 2022)
 - 프로그래밍과 데이터 분석(Python, Jupyter Notebook) (Sep. 2022 ~ Dec. 2022)
