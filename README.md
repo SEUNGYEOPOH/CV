@@ -78,11 +78,13 @@
 
 
 # 🗂️ Certificate
-- SQLD (SQL Developer), (Dec. 2021
+- SQLD (SQL Developer), (Dec. 2021)
+- TOEIC Speaking IM3, (Oct. 2023)
 <br/>
 
 
 # 📖 Teaching & Advising
+
 ## TA(Teaching Assistant)
 - 프로그래밍 기초(JAVA, Eclipse) (Mar. 2022 ~ Jun. 2022)
 - 프로그래밍과 데이터 분석(Python, Jupyter Notebook) (Sep. 2022 ~ Dec. 2022)
