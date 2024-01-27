@@ -1,13 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=100&pause=100&color=42A4F7C5&background=44B0FF00&center=true&vCenter=true&random=false&width=2000&height=500&lines=Hello+World%2C+I'm+SeungYeop+OH!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=200&pause=100&color=42A4F7C5&background=44B0FF00&center=true&vCenter=true&random=false&width=2000&height=500&lines=Hello+World%2C+I'm+SeungYeop+OH!)](https://git.io/typing-svg)
 
 # 🗞️ Profile
-<img align='center' alt="git hub profile image" src="https://user-images.githubusercontent.com/81912557/135828724-396d9561-2bef-4193-8f49-d168e71e3fbb.jpg" width="200"> <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwmd08"> <br/>
+<img align='center' alt="git hub profile image" src="https://user-images.githubusercontent.com/81912557/135828724-396d9561-2bef-4193-8f49-d168e71e3fbb.jpg" width="200"> <br/>
 
 - 오승엽(Oh Seung Yeop)
 - Email : 13056650@naver.com / dhwmd08@tukorea.ac.kr
 - Github : https://github.com/SEUNGYEOPOH
 - Interesting Field : Deep Learning, Data Analysis, Spatial Data Science, Time-Series Forecasting<br/>
 - Portfolio : [Click Here!](https://github.com/SEUNGYEOPOH/CV/blob/main/%EB%B6%84%EC%84%9D-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+- BOJ ⬇️  <br/><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhwmd08">
 <br/>
 
 
