@@ -5,7 +5,7 @@
 - Email : 13056650@naver.com / dhwmd08@tukorea.ac.kr
 - Github : https://github.com/SEUNGYEOPOH
 - Interesting Field : Deep Learning, Data Analysis, Spatial Data Science, Time-Series Forecasting<br/>
-- Portfolio : [Click Here!]()
+- Portfolio : [Click Here!](https://github.com/SEUNGYEOPOH/CV/blob/main/%EB%B6%84%EC%84%9D-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 <br/>
 
 
