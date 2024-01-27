@@ -10,6 +10,7 @@
 - Portfolio : [Click Here!](https://github.com/SEUNGYEOPOH/CV/blob/main/%EB%B6%84%EC%84%9D-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 <br/>
 
+
 # 👨‍🎓 Education
 - Tech University of Korea (IT-Business Administration & Smart-Factory Dual Degree) (2018.03 ~ 2024.02)<br/>
   - Bachelor Student <br/>
@@ -17,10 +18,12 @@
 - KeumJeong High School (2015.03 ~ 2018.02)<br/>
 <br/>
 
+
 # 🏠 Organization
 - 육군 수도군단 700 특공연대 만기전역 (2019.02.18 ~ 2020.09.21)<br/>
 - AID LAB (Artificial Intelligence + Data Science) Research Assistance (2021.10.06 ~ 2023.01.21)<br/>
 <br/>
+
 
 # 📖 Research Experience
 - GAIN (Generative Adversarial Imputation Nets)을 활용한 딥러닝 기반 Spatial Data Interpolation 연구 / 한국공학대학교 ER / GAN기반 Spatial Data(Missing Data) Interpolation 및 IDW(Inverse Distance Weighting), Kriging과의 비교 (Sep. 2022 ~ Dec. 2022)
@@ -30,13 +33,16 @@
 - ViT(Vision TransFormer)를 활용한 미세먼지 농도 예측 및 설명가능한 인공지능을 활용한 미세먼지 예측 메커니즘의 이해, 한국환경정책ㆍ평가연구원 / ViT 기반 Attention Score 추정 및 Shaply Value 시각화 (May. 2022 ~ Feb. 2022)
 <br/>
 
+
 # 🏆 AWARDS
 - 2023 한국공학대전 – 한국공학대학교 총장상, 한국공학대학교, (Sep.2023)
 <br/>
 
+
 # 💡 PATENTS
 -  이동현, 김남훈, 오승엽, "인공지능을 이용한 감염병 예측 방법 및 장치", 10-2022-0132078,  2022.10.14 출원.
 <br/>
+
 
 # 🙏 Personal Projects 
 ### 파뿌리(파이썬 뿌시는 이십대들) 
@@ -70,12 +76,13 @@
 - ARIMA, LSTM, TCN etc.. 
 <br/>
 
+
 # 🗂️ Certificate
 - SQLD (SQL Developer), (Dec. 2021
 <br/>
 
-# 📖 Teaching & Advising
 
+# 📖 Teaching & Advising
 ## TA(Teaching Assistant)
 - 프로그래밍 기초(JAVA, Eclipse) (Mar. 2022 ~ Jun. 2022)
 - 프로그래밍과 데이터 분석(Python, Jupyter Notebook) (Sep. 2022 ~ Dec. 2022)
@@ -85,6 +92,7 @@
 - 경영학부 신입생 멘토링 : 프로그래밍 기초, 경영통계학 멘토 (Mar. 2021 ~ Jun. 2021)
 - 경영학부 편입생 멘토링 : 데이터베이스 설계, 빅데이터 분석 멘토 (Mar. 2022 ~ Jun. 2022)
 <br/>
+
 
 # 🏅 TECHNICAL SKILLS
 ### Programming Language & Framework
