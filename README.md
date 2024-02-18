@@ -14,7 +14,7 @@
 # 👨‍🎓 Education
 - Tech University of Korea (IT-Business Administration & Smart-Factory Dual Degree) (2018.03 ~ 2024.02)<br/>
   - Bachelor Student <br/>
-    &nbsp; GPA : 4.26 / 4.5
+    &nbsp; GPA : 4.26 / 4.5 (최우등 졸업)
 - KeumJeong High School (2015.03 ~ 2018.02)<br/>
 <br/>
 
