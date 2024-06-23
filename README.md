@@ -43,6 +43,12 @@
 -  이동현, 김남훈, 오승엽, "인공지능을 이용한 감염병 예측 방법 및 장치", 10-2022-0132078,  2022.10.14 출원.
 <br/>
 
+# 🗂️ Certificate
+- SQLD (SQL Developer), (Dec. 2021)
+- TOEIC Speaking IM3, (Oct. 2023)
+- Google Machine Learning Bootcamp 2024(Jun. 2024 ~ Ing)
+- Coursera - Deep Learning Specialization(Jun. 2024 ~ Ing)
+<br/>
 
 # 🙏 Personal Projects 
 ### 파뿌리(파이썬 뿌시는 이십대들) 
@@ -75,13 +81,6 @@
 - 감염병 예측 및 Shap value 시각화
 - ARIMA, LSTM, TCN etc.. 
 <br/>
-
-
-# 🗂️ Certificate
-- SQLD (SQL Developer), (Dec. 2021)
-- TOEIC Speaking IM3, (Oct. 2023)
-<br/>
-
 
 # 📖 Teaching & Advising
 
