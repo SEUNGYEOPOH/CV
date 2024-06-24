@@ -48,6 +48,7 @@
 - TOEIC Speaking IM3, (Oct. 2023)
 - Google Machine Learning Bootcamp 2024(Jun. 2024 ~ Ing)
 - Coursera - Deep Learning Specialization(Jun. 2024 ~ Ing)
+  -  NeuralNetwork & Deep Learning (Jun. 2024) 
 <br/>
 
 # 🙏 Personal Projects 
