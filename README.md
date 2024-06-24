@@ -48,7 +48,7 @@
 - TOEIC Speaking IM3, (Oct. 2023)
 - Google Machine Learning Bootcamp 2024(Jun. 2024 ~ Ing)
 - Coursera - Deep Learning Specialization(Jun. 2024 ~ Ing)
-  -  NeuralNetwork & Deep Learning (Jun. 2024) 
+  -  [NeuralNetwork & Deep Learning (Jun. 2024)](https://github.com/SEUNGYEOPOH/CV/blob/main/NeuralNetwork%20%26%20Deep%20Learning.pdf)
 <br/>
 
 # 🙏 Personal Projects 
