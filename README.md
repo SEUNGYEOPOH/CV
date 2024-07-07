@@ -48,10 +48,10 @@
 - TOEIC Speaking IM3, (Oct. 2023)
 - Google Machine Learning Bootcamp 2024(Jun. 2024 ~ Ing)
 - Coursera - Deep Learning Specialization(Jun. 2024 ~ Ing)
-  -  [NeuralNetwork & Deep Learning (Jun. 2024)](https://github.com/SEUNGYEOPOH/CV/blob/main/NeuralNetwork%20%26%20Deep%20Learning.pdf)
-  -  [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Jul. 2024)](https://github.com/SEUNGYEOPOH/CV/blob/main/Improving%20Deep%20Neural%20Networks.pdf)
-  -  Structuring Machine Learning Projects (Jul. 2024) 
-  -  Convolutional Neural Networks (Jul.2024)
+  -  [NeuralNetwork & Deep Learning (Jun. 2024)](http://naver.me/GI3lfJG0)
+  -  [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Jul. 2024)](http://naver.me/GlJPNMRa)
+  -  [Structuring Machine Learning Projects (Jul. 2024)](http://naver.me/5nenISnj) 
+  -  [Convolutional Neural Networks (Jul.2024)](http://naver.me/GxkXMILY)
   -  Sequence Models (~Ing)
 <br/>
 
