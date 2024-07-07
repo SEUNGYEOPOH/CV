@@ -50,6 +50,9 @@
 - Coursera - Deep Learning Specialization(Jun. 2024 ~ Ing)
   -  [NeuralNetwork & Deep Learning (Jun. 2024)](https://github.com/SEUNGYEOPOH/CV/blob/main/NeuralNetwork%20%26%20Deep%20Learning.pdf)
   -  [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Jul. 2024)](https://github.com/SEUNGYEOPOH/CV/blob/main/Improving%20Deep%20Neural%20Networks.pdf)
+  -  Structuring Machine Learning Projects (Jul. 2024) 
+  -  Convolutional Neural Networks (Jul.2024)
+  -  Sequence Models (~Ing)
 <br/>
 
 # 🙏 Personal Projects 
